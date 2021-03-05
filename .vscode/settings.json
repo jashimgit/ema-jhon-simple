@@ -3,5 +3,6 @@
         "javascript": "javascriptreact"
     },
     "editor.tabSize": 4,
-    "editor.fontFamily": "'Operator Mono Light', 'Courier New', monospace"
+    "editor.fontFamily": "'Operator Mono Light', 'Courier New', monospace",
+    "editor.colorDecorators": true
 }
